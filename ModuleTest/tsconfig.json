@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "removeComments": true,
+        "out": "final.js",
+        "sourceMap": true
+    }
+}

@@ -28,4 +28,4 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 
 # VS Code
-./vscode/**/*
+.vscode/**/*
